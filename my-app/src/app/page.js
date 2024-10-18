@@ -2,7 +2,7 @@ import Image from "next/image";
 
 const NavItem = ({ title, link }) => {
     return (
-        <li class="nav-item" className="px-[16px] py-[8px] hover:bg-gray-300 tracking-[4px] text-[15px]">
+        <li class="nav-item">
             <a href={link}>{title}</a>
         </li>
     );
