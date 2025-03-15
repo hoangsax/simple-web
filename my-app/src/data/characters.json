@@ -1,0 +1,15 @@
+[
+    {
+      "id": 1,
+      "name": "Hero",
+      "image": "/images/hero.jpg",
+      "description": "A brave warrior destined to save the world."
+    },
+    {
+      "id": 2,
+      "name": "Mage",
+      "image": "/images/mage.jpg",
+      "description": "A powerful sorcerer who wields elemental magic."
+    }
+  ]
+  
